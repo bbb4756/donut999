@@ -23,6 +23,8 @@
 수제 도넛 맛집만의 리뷰, 평점, 랭킹 등을 볼 수 있다. 또한, 수요층의 연령대(10 ~ 20대)를 고려하여 맛집 사이트와 지하철 노선도를 접목시켜 역 근처의 맛집을 지하철 노선도의 역을 클릭하여 
 간편하게 알아낼 수 있다.
 
+실행 영상 : https://youtu.be/HuNnpL-s1zk
+
 
 <img width="90%" src="https://user-images.githubusercontent.com/99451642/195076687-d29dbc02-0ce2-4adf-b842-f578bdc5cba2.gif"/>
 
